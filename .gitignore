@@ -1,0 +1,15 @@
+# Environmental vars
+.env
+
+# Generated outputs
+safety_eval/simulate/output/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Temp
+temp/
